@@ -1,4 +1,4 @@
-开放文档资源索引 
+开放文档幻灯片(slides)资源索引 
 
 http://docs.huihoo.com
 
@@ -13,7 +13,7 @@ http://docs.huihoo.com
 * [Deep Learning Methods and Applications](http://docs.huihoo.com/deep-learning/Deep-Learning-Methods-and-Applications.pdf)
 * [The Applications of Deep Learning on Traffic Identification](http://docs.huihoo.com/blackhat/usa-2015/us-15-Wang-The-Applications-Of-Deep-Learning-On-Traffic-Identification.pdf)
 * [Deep Learning on Disassembly Data 反汇编数据深度学习](http://docs.huihoo.com/blackhat/usa-2015/us-15-Davis-Deep-Learning-On-Disassembly.pdf)
-* [Deep Learning Tutorial Release 0.1](http://docs.huihoo.com/deep-learning/deep-learning-tutorials/)
+* [Deep Learning Tutorial Release 0.1](http://docs.huihoo.com/deep-learning/deep-learning-tutorial-release-0.1.pdf)
 * [A Tutorial on Deep Learning](http://docs.huihoo.com/deep-learning/a-tutorial-on-deep-learning.pdf)
 * [记忆、阅读与理解 (深度学习 & NLP)](http://docs.huihoo.com/deep-learning/Memory-Reading-and-Comprehension-Deep-Learning-and-NLP.pdf)
 * [Seeing People with Deep Learning](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/Seeing-People-with-Deep-Learning.pdf)
@@ -45,184 +45,93 @@ http://docs.huihoo.com
 * [Memory, Reading, and Comprehension](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/Memory-Reading-and-Comprehension.pdf)
 * [Deep NLP Applications and Dynamic Memory Networks](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/Deep-NLP-Applications-and-Dynamic-Memory-Networks.pdf)
 
-### 机器人 Robot
-* [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-* [自动驾驶汽车](http://wiki.huihoo.com/wiki/Autonomous_car)
-* [Robot operating system](http://wiki.huihoo.com/wiki/Robot_operating_system)
-* [开放硬件](http://wiki.huihoo.com/wiki/Open_Hardware)
-
 ## 数据科学 Data Science
-* [Awesome Data Science](https://github.com/okulbilisim/awesome-datascience) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-* [Awesome Data Engineering](https://github.com/igorbarinov/awesome-data-engineering) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-* [数据科学](http://wiki.huihoo.com/wiki/Data_science)
-* [数据挖掘](http://wiki.huihoo.com/wiki/Data_mining)
-* [GNU Octave](http://wiki.huihoo.com/wiki/GNU_Octave)
+*[An Introduction to Data Science](http://docs.huihoo.com/data-science/an-introduction-to-data-science.pdf)
 
 ### 大数据 Big Data
-* [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-* [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667) 
-* [大数据](http://wiki.huihoo.com/wiki/Big_data)
-* [Apache Hadoop](http://wiki.huihoo.com/wiki/Apache_Hadoop)
-* [Apache Spark](http://wiki.huihoo.com/wiki/Apache_Spark)
-* [Apache Storm](http://wiki.huihoo.com/wiki/Apache_Storm)
-* [Hortonworks HDP](http://wiki.huihoo.com/wiki/Hortonworks)
-* [Cloudera CDH](http://wiki.huihoo.com/wiki/Cloudera)
-* [Apache Accumulo](http://wiki.huihoo.com/wiki/Apache_Accumulo)
-* [Apache Ambari](http://wiki.huihoo.com/wiki/Apache_Ambari)
-* [Apache Atlas](http://wiki.huihoo.com/wiki/Apache_Atlas)
-* [Apache Avro](http://wiki.huihoo.com/wiki/Apache_Avro)
-* [Apache Calcite](http://wiki.huihoo.com/wiki/Apache_Calcite)
-* [Apache Chukwa](http://wiki.huihoo.com/wiki/Apache_Chukwa)
-* [Apache Crunch](http://wiki.huihoo.com/wiki/Apache_Crunch)
-* [Apache Drill](http://wiki.huihoo.com/wiki/Apache_Drill)
-* [Apache Falcon](http://wiki.huihoo.com/wiki/Apache_Falcon)
-* [Apache Flume](http://wiki.huihoo.com/wiki/Apache_Flume)
-* [Apache Giraph](http://wiki.huihoo.com/wiki/Apache_Giraph)
-* [Apache Knox](http://wiki.huihoo.com/wiki/Apache_Knox)
-* [Apache Lens](http://wiki.huihoo.com/wiki/Apache_Lens)
-* [Apache Oozie](http://wiki.huihoo.com/wiki/Apache_Oozie)
-* [Apache Ranger](http://wiki.huihoo.com/wiki/Apache_Ranger)
-* [Apache Sentry](http://wiki.huihoo.com/wiki/Apache_Sentry)
-* [Apache Sqoop](http://wiki.huihoo.com/wiki/Apache_Sqoop)
+* [Securing Your Big Data Environment](http://docs.huihoo.com/blackhat/usa-2015/us-15-Gaddam-Securing-Your-Big-Data-Environment.pdf)
+* [Securing the Big Data Ecosystem](http://docs.huihoo.com/rsaconference/usa-2014/stu-t07a-securing-the-big-data-ecosystem.pdf)
+* [Harnessing Big Data for Application Security Intelligence](http://docs.huihoo.com/rsaconference/usa-2014/spo3-t08-good-guys-vs-bad-guys-using-big-data-to-counteract-advanced-threats.pdf)
+* [Security Business Intelligence– Big Data for Faster Detection/Response](http://docs.huihoo.com/rsaconference/usa-2014/stu-r02b-security-business-intelligence-big-data-for-faster-detection-response.pdf)
+* [BerkeleyX: CS100.1x Introduction to Big Data with Apache Spark 讲义下载 ](http://docs.huihoo.com/big-data/introduction-to-big-data-with-apache-spark)
 
 ### 数据分析和商业智能 Data Analysis & Business Intelligence
-* [商业智能](http://wiki.huihoo.com/wiki/Business_intelligence)
-* [jupyter](http://wiki.huihoo.com/wiki/Jupyter)
-* [Countly移动分析](http://wiki.huihoo.com/wiki/Countly)
-* [HPCC](http://wiki.huihoo.com/wiki/HPCC)
-* [ROOT](http://wiki.huihoo.com/wiki/ROOT)
-* [Hue](http://wiki.huihoo.com/wiki/Hue)
-* [Apache Hama](http://wiki.huihoo.com/wiki/Apache_Hama)
-* [Pentaho](http://wiki.huihoo.com/wiki/Pentaho)
-* [Greenplum](http://wiki.huihoo.com/wiki/Greenplum)
-* [Apache Kylin](http://wiki.huihoo.com/wiki/Apache_Kylin)
-* [Apache Tajo](http://wiki.huihoo.com/wiki/Apache_Tajo)
-* [Apache Hive](http://wiki.huihoo.com/wiki/Apache_Hive)
-* [DataCleaner](http://wiki.huihoo.com/wiki/DataCleaner)
+* [Data Visualization for Oracle Business Intelligence 11g](http://docs.huihoo.com/oracle/openworld/2014/UGF9227-Data-Visualization-for-Oracle-Business-Intelligence-11g.pdf)
+* [Advanced Metadata Modeling for Oracle Business Intelligence Cloud Service](http://docs.huihoo.com/oracle/openworld/2014/CON8419-Advanced-Metadata-Modeling-for-Oracle-Business-Intelligence-Cloud-Service.pptx)
 
 ## 微服务和容器 Microservices & Container
-* [Awesome Microservices](https://github.com/mfornos/awesome-microservices) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-* [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-* [Awesome Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-* [微服务](http://wiki.huihoo.com/wiki/Microservices)
-* [Docker](http://wiki.huihoo.com/wiki/Docker)
+* [使⽤微服务架构改造企业核⼼业务系统的实践](http://docs.huihoo.com/infoq/qconbeijing/2015/day3/%E4%BD%BF%E2%BD%A4%E7%94%A8%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E6%94%B9%E9%80%A0%E4%BC%81%E4%B8%9A%E6%A0%B8%E2%BC%BC%E5%BF%83%E4%B8%9A%E5%8A%A1%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
+* [Microservices under the microscope](http://docs.huihoo.com/infoq/qconbeijing/2015/day3/Microservices-under-the-microscope.pdf)
+* [Building Systems with Asynchronous Microservices](http://docs.huihoo.com/javaone/2014/CON1870-Building-Systems-with-Asynchronous-Microservices.pdf)
 
 ## 数据库和存储 Database & Storage
-* [Awesome DB](https://github.com/numetriclabz/awesome-db) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-* [数据库](http://wiki.huihoo.com/wiki/Database)
-* [存储](http://wiki.huihoo.com/wiki/Storage)
-* [MySQL](http://wiki.huihoo.com/wiki/MySQL) 和 [MariaDB](http://wiki.huihoo.com/wiki/MariaDB)
-* [MongoDB](http://wiki.huihoo.com/wiki/MongoDB)
-* [Riak](http://wiki.huihoo.com/wiki/Riak)
-* [PostgreSQL](http://wiki.huihoo.com/wiki/PostgreSQL)
-* [Redis](http://wiki.huihoo.com/wiki/Redis)
-* [Couchbase](http://wiki.huihoo.com/wiki/Couchbase)
-* [Apache CouchDB](http://wiki.huihoo.com/wiki/Apache_CouchDB)
-* [Apache Cassandra](http://wiki.huihoo.com/wiki/Apache_Cassandra)
-* [Apache HBase](http://wiki.huihoo.com/wiki/Apache_HBase)
-* [Alluxio](http://wiki.huihoo.com/wiki/Alluxio)
-* [ZFS](http://wiki.huihoo.com/wiki/ZFS)
-* [HDFS](http://wiki.huihoo.com/wiki/HDFS)
+* [Delivering Meaning In NearReal Time At High Velocity & Massive Scale](http://docs.huihoo.com/apache/spark/summit/east2015/SSE15-11-Delivering-Meaning-At-High-Velocity-with-Spark-Streaming-Cassandra-Kafka-and-Akka.pdf)
+* [An Introduction to Real-Time Analytics with Cassandra and Hadoop](http://docs.huihoo.com/oreilly/conferences/strataconf/big-data-conference-ny-2013/An-Introduction-to-Real-Time-Analytics-with-Cassandra-and-Hadoop.pdf)
+* [Cassandra Data Modeling Best Practices at eBay](http://docs.huihoo.com/apache/cassandra/Cassandra-Data-Modeling-Best-Practices-at-eBay.pdf) 和 [Cassandra at eBay](http://docs.huihoo.com/apache/cassandra/Cassandra-at-eBay.pdf) 和 [Cassandra Scale at eBay](http://docs.huihoo.com/apache/cassandra/planetcassandra/Cassandra-at-eBay-Scale.pdf)
+* [HBase上搭建广告实时数据处理平台](http://docs.huihoo.com/infoq/ArchSummitbeijing-build-advertising-real-time-data-processing-platform-on-hbase-20141220-lirui.pdf)
+* [阿里搜索基于HBase实时计算及在线学习系统Pora介绍](http://docs.huihoo.com/infoq/qconshanghai/2015/%e5%9f%ba%e4%ba%8e%e5%a4%a7%e6%95%b0%e6%8d%ae%e7%9a%84%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e6%8a%80%e6%9c%af/QCon%e4%b8%8a%e6%b5%b72015-%e9%98%bf%e9%87%8c%e6%90%9c%e7%b4%a2%e5%ae%9e%e6%97%b6%e8%ae%a1%e7%ae%97%e5%92%8c%e5%9c%a8%e7%ba%bf%e5%ad%a6%e4%b9%a0%e8%81%94%e7%b3%bb%e7%b3%bb%e7%bb%9fPORA%e4%bb%8b%e7%bb%8d-%e6%a2%81%e4%b9%89.pdf)
+* [Couchbase介绍](http://docs.huihoo.com/couchbase/couchbase-20111109.pdf)
+* [NoSQL Database in the Cloud: Couchbase Server 2.0 on AWS](http://docs.huihoo.com/amazon/aws/whitepapers/NoSQL-Database-in-the-Cloud-Couchbase-Server-2.0-on-AWS-July-2013.pdf)
+* [How PayPal Manages 1B Documents & 10TB Data with Couchbase](http://docs.huihoo.com/couchbase/couchbase-at-paypal-2014.pdf)
+* [LinkedIn @ Couchbase Connect Using Couchbase](http://docs.huihoo.com/couchbase/couchbase-at-linkedin-2014.pdf)
+* [PostgreSQL 9.4 and JSON](http://docs.huihoo.com/postgresql/pgcon/2014/PostgreSQL-9.4-and-JSON.pdf)
+* [PG-Strom: Query Acceleration Engine of PostgreSQL Powered by GPGPU](http://docs.huihoo.com/gputechconf/gtc2015/S5276-PG-Strom-Query-Acceleration-Engine-of-PostgreSQL-Powered-by-GPGPU.pdf)
+* [The State of the Dolphin：MySQL 5.7](http://docs.huihoo.com/oracle/openworld/2014/GEN8900-General-Session-The-State-of-the-Dolphin-and-Customer-Experiences.pdf)
+* [MySQL 5.7 Performance: Scalability & Benchmarks](http://docs.huihoo.com/oracle/openworld/2014/CON5066-MySQL-5.7-Performance-and-Scalability-Benchmarks.pdf)
+* [Tachyon: An Open Source Memory-Centric Distributed Storage System](http://docs.huihoo.com/alluxio/Tachyon-An-Open-Source-Memory-Centric-Distributed-Storage-System.pdf)
+* [Interactive Data Analytics with Spark on Tachyon in Baidu](http://docs.huihoo.com/alluxio/Interactive-Data-Analytics-with-Spark-on-Tachyon-in-Baidu.pdf)
+* [Make Tachyon Ready for next-gen Data Center Platforms with NVM](http://docs.huihoo.com/alluxio/Make-Tachyon-Ready-for-next-gen-Data-Center-Platforms-with-NVM.pdf)
 * [Ceph](http://wiki.huihoo.com/wiki/Ceph)
-* [FreeNAS](http://wiki.huihoo.com/wiki/FreeNAS)
+* [When to NoSQL and When to Know SQL](http://docs.huihoo.com/javaone/2014/CON1958-When-to-NoSQL-and-When-to-Know-SQL.pdf)
+* [Building a NoSQL Data Cloud](http://docs.huihoo.com/open-source/oscon2010/Building-a-NoSQL-Data-Cloud.pdf)
+* [NoSQL and SQL: The Best of Both Worlds](http://docs.huihoo.com/oracle/openworld/2014/CON2853-NoSQL-and-SQL-The-Best-of-Both-Worlds.pptx)
 
 ## 云计算和数据中心 Cloud Computing & Data Center
-* [云计算](http://wiki.huihoo.com/wiki/Cloud_computing)
-* [OpenStack](http://wiki.huihoo.com/wiki/OpenStack)
-* [Apache CloudStack](http://wiki.huihoo.com/wiki/Apache_CloudStack)
-* [OpenShift](http://wiki.huihoo.com/wiki/OpenShift)
-* [Cloud Foundry](http://wiki.huihoo.com/wiki/Cloud_Foundry)
-* [Apache Stratos](http://wiki.huihoo.com/wiki/Apache_Stratos)
-* [Apache Mesos](http://wiki.huihoo.com/wiki/Apache_Mesos)
-* [Puppet](http://wiki.huihoo.com/wiki/Puppet)
+* [OpenStack实战指导手册](http://docs.huihoo.com/openstack/openstack-guide-zh-cn-techtarget.pdf)
+* [OpenStack Quantum Architecture，Network(Quantum) provide "network connectivity as a service" ](http://docs.huihoo.com/openstack/openstack-quantum-architecture.pdf)
+* [Chef for OpenStack Overview](http://docs.huihoo.com/openstack/summit/2013/chef-for-openstack-overview.pdf)
+* [Cloud Foundry and OpenStack](http://docs.huihoo.com/openstack/summit/2013/cloud-foundry-your-paas-on-openstack.pdf)
+* [云计算中的服务质量保障与资源隔离](http://docs.huihoo.com/openstack/netease-private-cloud-wangyuan.pdf)
+* [Building a Private Cloud with Oracle's OpenStack for Oracle Linux and Oracle VM](http://docs.huihoo.com/oracle/openworld/2014/CON8358-Building-a-Private-Cloud-with-Oracle-OpenStack-for-Oracle-Linux-and-Oracle-VM.pdf)
+* [OpenStack Cloud At Yahoo Scale How To Avoid Disaster](http://docs.huihoo.com/blackhat/usa-2014/us-14-Beitnes-OpenStack-Cloud-At-Yahoo-Scale-How-To-Avoid-Disaster.pdf)
+* [OpenShift 3 Technical Architecture](http://docs.huihoo.com/openshift/OpenShift-3-Technical-Architecture.pdf)
+* [OpenShift 3 and The Next Generation of PaaS](http://docs.huihoo.com/redhat/summit/2015/13544_openshift-3-the-next-generation-of-paas.pdf)
+* [Using OpenShift & PaaS to accelerate DevOps & Continuous Delivery](http://docs.huihoo.com/redhat/summit/2015/12218_use-openshift-paas-to-accelerate-devops-continuous-delivery.pdf)
 
 ## 编程语言 Programming Language
-* [Awesome Programming Languages](https://github.com/sindresorhus/awesome#programming-languages) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667) 各种编程语言的Awesome, 很丰富 :)
-* [C语言](http://wiki.huihoo.com/wiki/C_programming_language)
-* [C++](http://wiki.huihoo.com/wiki/C%2B%2B)
-* [Awesome JVM](https://github.com/deephacks/awesome-jvm) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667) 和 [Java Virtual Machine (JVM)](http://wiki.huihoo.com/wiki/Java_virtual_machine)
-* [Java](http://wiki.huihoo.com/wiki/Java) 和 [RxJava](https://github.com/ReactiveX/RxJava) 和 [Awesome RxJava](https://github.com/lzyzsd/Awesome-RxJava)
-* [Go](http://wiki.huihoo.com/wiki/Go)
-* [JavaScript](http://wiki.huihoo.com/wiki/JavaScript) 和 [CoffeeScript](http://wiki.huihoo.com/wiki/CoffeeScript) 和 [ECMAScript](http://wiki.huihoo.com/wiki/ECMAScript) 和 [HTML5](http://wiki.huihoo.com/wiki/HTML5)
-* [Node.js](http://wiki.huihoo.com/wiki/Node.js)
-* [Python](http://wiki.huihoo.com/wiki/Python)
-* [PHP](http://wiki.huihoo.com/wiki/PHP)
-* [Ruby](http://wiki.huihoo.com/wiki/Ruby) on [Rails](http://wiki.huihoo.com/wiki/Rails)
-* [Perl](http://wiki.huihoo.com/wiki/Perl)
-* [Erlang](http://wiki.huihoo.com/wiki/Erlang) 和 [Elixir](http://wiki.huihoo.com/wiki/Elixir_programming_language)
-* [Clojure](http://wiki.huihoo.com/wiki/Clojure) 和 [ClojureScript](http://wiki.huihoo.com/wiki/ClojureScript)
-* [Scala](http://wiki.huihoo.com/wiki/Scala)
-* [Groovy](http://wiki.huihoo.com/wiki/Groovy)
-* [Haskell](http://wiki.huihoo.com/wiki/Haskell)
-* [Lisp](http://wiki.huihoo.com/wiki/Lisp) 和 [Scheme](http://wiki.huihoo.com/wiki/Scheme) 和 [Racket](http://wiki.huihoo.com/wiki/Racket) 和 [GNU Guile](http://wiki.huihoo.com/wiki/GNU_Guile)
-* [Julia](http://wiki.huihoo.com/wiki/Julia)
-* [Rust](http://wiki.huihoo.com/wiki/Rust)
-* [Lua](http://wiki.huihoo.com/wiki/Lua)
-* [Swift](http://wiki.huihoo.com/wiki/Swift)
-* [R语言](http://wiki.huihoo.com/wiki/R_Project)
-* [Dart](http://wiki.huihoo.com/wiki/Dart)
-* [Smalltalk](http://wiki.huihoo.com/wiki/Smalltalk) 和 [Scratch](http://wiki.huihoo.com/wiki/Scratch) 和 [Squeak](http://wiki.huihoo.com/wiki/Squeak) 和 [Squeak @ OLPC](http://wiki.huihoo.com/wiki/OLPC)
-* [Fortran](http://wiki.huihoo.com/wiki/Fortran)
+### C/C++ ###
+### JVM ###
+### Java ###
+### Go ###
+### JavaScript ### 
+### CoffeeScript ### 
+### ECMAScript] ### 
+### HTML5 ###
+### Node.js ### 
+### Python ###
+### PHP ###
+### Ruby on Rails ###
+### Perl ###
+### Erlang 和 Elixir ###
+### Clojure 和 ClojureScript ###
+### Scala ###
+### Groovy ###
+### Haskell ###
+### Lisp 和 Scheme 和 Racket  和 GNU Guile ###
+### Julia ###
+### Rust ###
+### Lua ###
+### Swift ###
+### R语言 ###
+### Dart ###
+### Smalltalk 和 Scratch 和 Squeak 和 Squeak @ OLPC ###
+### Fortran] ###
 
 ## 编辑器和集成开发环境 Editor & IDE
-* [Vim](http://wiki.huihoo.com/wiki/Vim)
-* [Emacs](http://wiki.huihoo.com/wiki/Emacs)
-* [Atom编辑器](http://wiki.huihoo.com/wiki/Atom_editor) 和 [Electron框架](http://wiki.huihoo.com/wiki/Electron_framework)
-* [Visual Studio Code](http://wiki.huihoo.com/wiki/Visual_Studio_Code)
-* [IntelliJ IDEA](http://wiki.huihoo.com/wiki/IntelliJ_IDEA)
-* [Eclipse](http://wiki.huihoo.com/wiki/Eclipse)
-* [Code::Blocks](http://wiki.huihoo.com/wiki/Code::Blocks)
 
 ## 中间件 Middleware & MOM & SOA & ESB & Workflow & BPM
-* [Middleware](http://wiki.huihoo.com/wiki/Middleware) 和 [SOA](http://wiki.huihoo.com/wiki/SOA) 和 [ESB](http://wiki.huihoo.com/wiki/ESB) 和 [工作流](http://wiki.huihoo.com/wiki/Workflow) 和 [BPM](http://wiki.huihoo.com/wiki/BPM)
-* [Nginx Resources](https://github.com/fcambus/nginx-resources) ![awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
-* [Nginx](http://wiki.huihoo.com/wiki/Nginx)
-* [Apache HTTP Server](http://wiki.huihoo.com/wiki/Apache_HTTP_Server)
-* [Lighttpd](http://wiki.huihoo.com/wiki/Lighttpd)
-* [Cowboy](http://wiki.huihoo.com/wiki/Cowboy)
-* [Jetty](http://wiki.huihoo.com/wiki/Jetty)
-* [Apache Tomcat](http://wiki.huihoo.com/wiki/Apache_Tomcat)
-* [GlassFish](http://wiki.huihoo.com/wiki/GlassFish)
-* [ICE](http://wiki.huihoo.com/wiki/ICE)
-* [ACE](http://wiki.huihoo.com/wiki/ACE) 和 [TAO](http://wiki.huihoo.com/wiki/TAO)
-* [OpenSplice](http://wiki.huihoo.com/wiki/OpenSplice)
-* [XMPP](http://wiki.huihoo.com/wiki/XMPP) 和 [AMQP](http://wiki.huihoo.com/wiki/AMQP) 和 [MQTT](http://wiki.huihoo.com/wiki/MQ_Telemetry_Transport)
-* [ZeroMQ](http://wiki.huihoo.com/wiki/ZeroMQ)
-* [Apache ActiveMQ](http://wiki.huihoo.com/wiki/Apache_ActiveMQ)
-* [Apache Kafka](http://wiki.huihoo.com/wiki/Apache_Kafka)
-* [RabbitMQ](http://wiki.huihoo.com/wiki/RabbitMQ)
-* [WSO2 Message Broker](http://wiki.huihoo.com/wiki/WSO2_Message_Broker)
-* [Apache CXF](http://wiki.huihoo.com/wiki/Apache_CXF)
-* [Apache Synapse](http://wiki.huihoo.com/wiki/Apache_Synapse)
-* [Apache Felix](http://wiki.huihoo.com/wiki/Apache_Felix)
-* [Apache ServiceMix](http://wiki.huihoo.com/wiki/Apache_ServiceMix)
-* [Mule](http://wiki.huihoo.com/wiki/Mule)
-* [Open ESB](http://wiki.huihoo.com/wiki/Open_ESB)
-* [WSO2 ESB](http://wiki.huihoo.com/wiki/WSO2_ESB)
-* [JBoss ESB](http://wiki.huihoo.com/wiki/JBoss_ESB)
-* [Activiti](http://wiki.huihoo.com/wiki/Activiti)
-* [JBPM](http://wiki.huihoo.com/wiki/JBPM)
-* [OptaPlanner](http://wiki.huihoo.com/wiki/OptaPlanner)
-* [Drools](http://wiki.huihoo.com/wiki/Drools)
-* [OpenRules](http://wiki.huihoo.com/wiki/OpenRules)
 
-## 开源项目社区百科 Community Wiki
-* [Linux Kernel Wiki](https://www.wiki.kernel.org/)
-* [Debian Wiki](https://wiki.debian.org/) 
-* [Ubuntu Wiki](https://wiki.ubuntu.com/) 和 [Ubuntu中文百科](http://wiki.ubuntu.com.cn)
-* [CentOS Wiki](http://wiki.centos.org)
-* [Fedora Wiki](https://fedoraproject.org/wiki)
-* [openSUSE Wiki](https://zh.opensuse.org)
-* [CyanogenMod Wiki](https://wiki.cyanogenmod.org)
-* [PostgreSQL Wiki](https://wiki.postgresql.org)
-* [FreeBSD Wiki](https://wiki.freebsd.org/) 和 [FreeBSDChina Wiki](https://wiki.freebsdchina.org/)
-* [ROS Wiki](http://wiki.ros.org/)
-* [Arch Linux Wiki](https://wiki.archlinux.org/)
-* [Apache Confluence wiki](http://cwiki.apache.org/) 和 [Apache MoinMoin wiki](https://wiki.apache.org/)
-* [Eclipse Wiki](https://wiki.eclipse.org)
-* [OpenStack Wiki](https://wiki.openstack.org/)
-* [OpenCV中文百科](http://wiki.opencv.org.cn)
+## 各种大会资料
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
