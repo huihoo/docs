@@ -46,7 +46,7 @@ http://docs.huihoo.com
 * [Deep NLP Applications and Dynamic Memory Networks](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/Deep-NLP-Applications-and-Dynamic-Memory-Networks.pdf)
 
 ## 数据科学 Data Science
-*[An Introduction to Data Science](http://docs.huihoo.com/data-science/an-introduction-to-data-science.pdf)
+* [An Introduction to Data Science](http://docs.huihoo.com/data-science/an-introduction-to-data-science.pdf)
 
 ### 大数据 Big Data
 * [Securing Your Big Data Environment](http://docs.huihoo.com/blackhat/usa-2015/us-15-Gaddam-Securing-Your-Big-Data-Environment.pdf)
