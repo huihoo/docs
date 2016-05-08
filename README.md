@@ -1,4 +1,4 @@
-开放文档幻灯片(slides)资源索引 
+开放文档幻灯片(slides)资源索引，所有资料都可以直接下载。 
 
 http://docs.huihoo.com
 
@@ -111,15 +111,16 @@ http://docs.huihoo.com
 
 ### Java ###
 * [Java Tools and Technologies Landscape for 2014](http://docs.huihoo.com/java/java-tools-and-technologies-landscape-for-2014.pdf)
-* [The New Real-Time Specification for Java](http://docs.huihoo.com/javaone/2014/BOF4957-The-New-Real-Time-Specification-for-Java.pdf) 
-### Clojure 和 ClojureScript ###
-*[为什么我们仍需要Lisp(Clojure)](http://docs.huihoo.com/infoq/qconshanghai/2015/%e6%96%b0%e8%af%ad%e8%a8%80%e4%b8%8e%e6%96%b0%e5%8f%91%e5%b1%95/QCon%e4%b8%8a%e6%b5%b72015-LorettaHe-%e4%b8%ba%e4%bb%80%e4%b9%88%e6%88%91%e4%bb%ac%e4%bb%8d%e9%9c%80%e8%a6%81Lisp(Clojure)-Loretta%20He.pdf)
+* [The New Real-Time Specification for Java](http://docs.huihoo.com/javaone/2014/BOF4957-The-New-Real-Time-Specification-for-Java.pdf)
 
 ### Scala ###
 * [Scala：让Java平台上的编程重现生机](http://docs.huihoo.com/scala/scala-2012.pdf)
 * [Learning Scala: A Practical Approach](http://docs.huihoo.com/javaone/2014/BOF3024-Learning-Scala-A-Practical-Approach.pdf)
 * [Scala v. Clojure](http://docs.huihoo.com/infoq/qconbeijing/2015/day1/scala-v-clojure.pdf)
 * [Scala & Clojure  Playing Nice](http://docs.huihoo.com/infoq/qconbeijing/2015/day2/scala-clojure-playing-nice.pptx)
+
+### Clojure 和 ClojureScript ###
+*[为什么我们仍需要Lisp(Clojure)](http://docs.huihoo.com/infoq/qconshanghai/2015/%e6%96%b0%e8%af%ad%e8%a8%80%e4%b8%8e%e6%96%b0%e5%8f%91%e5%b1%95/QCon%e4%b8%8a%e6%b5%b72015-LorettaHe-%e4%b8%ba%e4%bb%80%e4%b9%88%e6%88%91%e4%bb%ac%e4%bb%8d%e9%9c%80%e8%a6%81Lisp(Clojure)-Loretta%20He.pdf)
 
 ### Go ###
 * [Write your own Go compiler, More adventures with go.tools/ssa](http://docs.huihoo.com/fosdem/2014/go/Write-your-own-Go-compiler-More-adventures-with-go.tools-ssa.pdf)
