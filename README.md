@@ -99,30 +99,30 @@ http://docs.huihoo.com
 * [Using OpenShift & PaaS to accelerate DevOps & Continuous Delivery](http://docs.huihoo.com/redhat/summit/2015/12218_use-openshift-paas-to-accelerate-devops-continuous-delivery.pdf)
 
 ## 编程语言 Programming Language
-### C/C++ ###
+### C/C++
 * [C++11核心特性简析](http://docs.huihoo.com/infoq/qconshanghai/2015/C++11%e6%a0%b8%e5%bf%83%e7%89%b9%e6%80%a7%e7%ae%80%e6%9e%90.pdf)
 * [C++ History and Rationale](http://docs.huihoo.com/cpp/cpp-history-and-rationale.pdf)
 
-### JVM ###
+### JVM
 * [Introduction to HotSpot Internals](http://docs.huihoo.com/javaone/2014/CON3294-Introduction-to-HotSpot-Internals.pdf)
 * [JVM Mechanics: When Does the JVM JIT & Deoptimize?](http://docs.huihoo.com/java/javase/jvm-mechanics.pdf)
 * [JVM @ Taobao](http://docs.huihoo.com/infoq/qcon-jvm-at-taobao-20111023.pdf)
 * [Java Virtual Machine Virtualiza1on - building scalable JVM for Cloud](http://docs.huihoo.com/infoq/qconshanghai-jvm-construction-technology-elastic-cloud-computing-environment-20141018.pdf) 
 
-### Java ###
+### Java
 * [Java Tools and Technologies Landscape for 2014](http://docs.huihoo.com/java/java-tools-and-technologies-landscape-for-2014.pdf)
 * [The New Real-Time Specification for Java](http://docs.huihoo.com/javaone/2014/BOF4957-The-New-Real-Time-Specification-for-Java.pdf)
 
-### Scala ###
+### Scala
 * [Scala：让Java平台上的编程重现生机](http://docs.huihoo.com/scala/scala-2012.pdf)
 * [Learning Scala: A Practical Approach](http://docs.huihoo.com/javaone/2014/BOF3024-Learning-Scala-A-Practical-Approach.pdf)
 * [Scala v. Clojure](http://docs.huihoo.com/infoq/qconbeijing/2015/day1/scala-v-clojure.pdf)
 * [Scala & Clojure  Playing Nice](http://docs.huihoo.com/infoq/qconbeijing/2015/day2/scala-clojure-playing-nice.pptx)
 
-### Clojure 和 ClojureScript ###
+### Clojure 和 ClojureScript
 *[为什么我们仍需要Lisp(Clojure)](http://docs.huihoo.com/infoq/qconshanghai/2015/%e6%96%b0%e8%af%ad%e8%a8%80%e4%b8%8e%e6%96%b0%e5%8f%91%e5%b1%95/QCon%e4%b8%8a%e6%b5%b72015-LorettaHe-%e4%b8%ba%e4%bb%80%e4%b9%88%e6%88%91%e4%bb%ac%e4%bb%8d%e9%9c%80%e8%a6%81Lisp(Clojure)-Loretta%20He.pdf)
 
-### Go ###
+### Go
 * [Write your own Go compiler, More adventures with go.tools/ssa](http://docs.huihoo.com/fosdem/2014/go/Write-your-own-Go-compiler-More-adventures-with-go.tools-ssa.pdf)
 * [Go在猎豹移动的应用](http://docs.huihoo.com/go/gopherchina/2015/2-5%20Go%e5%9c%a8%e7%8c%8e%e8%b1%b9%e7%a7%bb%e5%8a%a8%e7%9a%84%e5%ba%94%e7%94%a8.pdf)
 * [Go语⾔游戏项目应⽤情况汇报 2012年 - 2015年，仙侠道网⻚版，使⽤Go语⾔替代神仙道时期的Erlang，开发流程和主要架构不变。](http://docs.huihoo.com/go/gopherchina/2015/1-1%20Go%e8%af%ad%e8%a8%80%e6%b8%b8%e6%88%8f%e9%a1%b9%e7%9b%ae%e5%ba%94%e7%94%a8%e6%83%85%e5%86%b5%e6%b1%87%e6%8a%a5.pdf)
@@ -133,43 +133,43 @@ http://docs.huihoo.com
 * [七牛的Go语言之缘](http://docs.huihoo.com/go/qiniu-s-karma-with-golang.pdf)
 * [七牛的缘分：Golang与云存储](http://docs.huihoo.com/go/golang-and-cloud-storage.pdf)
 
-### JavaScript ### 
+### JavaScript
 * [JavaScript - The World's Best Programming Language](http://docs.huihoo.com/infoq/qconshanghai/2015/%e6%96%b0%e8%af%ad%e8%a8%80%e4%b8%8e%e6%96%b0%e5%8f%91%e5%b1%95/QCon%e4%b8%8a%e6%b5%b72015-%20JavaScript%20-%20The%20World's%20Best%20Programming%20Language-%20%e8%b4%ba%e5%b8%88%e4%bf%8a.pdf)
 * [JavaScript on Java EE](http://docs.huihoo.com/javaone/2014/CON1747-JavaScript-on-Java-EE.pdf)
 * [Nashorn: JavaScript for the JVM](http://docs.huihoo.com/javaone/2014/CON1888-Nashorn-JavaScript-for-the-JVM.pptx)
 
-### HTML5 ###
+### HTML5
 * [The Design of HTML5](http://docs.huihoo.com/html/design-of-html5.pdf)
 * [Integrating JavaScript into Native Applications](http://docs.huihoo.com/apple/wwdc/2013/session_615__integrating_javascript_into_native_applications.pdf)
 * [HTML5 for the Java Developer](http://docs.huihoo.com/jboss/jbossworld/2011/HTML5-for-the-Java-Developer.pdf)
 
-### Node.js ###
+### Node.js
 * [Building a Real-Time Cloud Analytics Service with Node.js](http://docs.huihoo.com/nodejs/building-a-realtime-cloud-analytics-service-with-nodejs.pdf)
 
-### Python ###
+### Python
 * [Zen and the Art of Abstraction Maintenance](http://docs.huihoo.com/python/Zen-and-the-Art-of-Abstraction-Maintenance-OSCON-2009.pdf)
 * [Best Practices for Scripting with Python 2 & Python 3](http://docs.huihoo.com/python/Best-practices-for-scripting-with-Python3-OSCON-2009.pdf)
 
-### PHP ###
+### PHP
 * [PHP 7 - New Engine For The Good Old Train](http://docs.huihoo.com/infoq/qconbeijing/2015/day2/PHP-7.pdf)
 * [Untestable Code](http://docs.huihoo.com/php/Untestable-Code-OSCON-2009.pdf)
 * [Quality Assurance in PHP Projects](http://docs.huihoo.com/php/Quality-Assurance-in-PHP-Projects-OSCON-2009.pdf)
 * [PHP Code Audit](http://docs.huihoo.com/php/PHP-Code-Audit-OSCON-2009.pdf)
 
-### Ruby on Rails ###
+### Ruby on Rails
 * [Running the Show Configuration Management with Chef](http://docs.huihoo.com/ruby/Running-the-Show-Configuration-Management-with-Chef-OSCON-2009.pdf)
 * [Testing iPhone apps with Ruby and Cucumber](http://docs.huihoo.com/ruby/Testing-iPhone-apps-with-Ruby-and-Cucumber-OSCON-2009.pdf)
 * [REST & ActiveResource](http://docs.huihoo.com/rails/REST-ActiveResource.pdf)
 * [Accelerate your Rails Site with Automatic Generation based Action Caching](http://docs.huihoo.com/rails/Accelerate-your-Rails-Site-with-Automatic-Generation-based-Action-Caching-OSCON-2009.pdf)
 
-### Perl ###
+### Perl
 * [Enterprise Perl](http://docs.huihoo.com/perl/Enterprise-Perl-OSCON-2009.pdf)
 * [Mastering Perl](http://docs.huihoo.com/perl/Mastering-Perl-OSCON-2009.pdf)
 * [State of the art Profiling with Devel NYTProf](http://docs.huihoo.com/perl/State-of-the-art-Profiling-with-Devel-NYTProf-OSCON-2009.pdf)
 * [UTF8 Perl and You](http://docs.huihoo.com/perl/UTF8-Perl-and-You-OSCON-2009.ppt)
 * [What's new in Perl v5.10](http://docs.huihoo.com/perl/What-is-new-in-Perl-v5.10-OSCON-2009.pdf)
 
-### Erlang 和 Elixir ###
+### Erlang 和 Elixir
 * [Erlang开发实践, 在淘宝MySQL平台(UMP)的应用 @淘宝褚霸](http://docs.huihoo.com/infoq/qconbeijing-erlang-development-practices-20130425.pdf)
 * [基于Erlang构建⼤大规模实时系统](http://docs.huihoo.com/infoq/qconbeijing/2015/day2/%e5%9f%ba%e4%ba%8eErlang%e6%9e%84%e5%bb%ba%e5%a4%a7%e8%a7%84%e6%a8%a1%e5%ae%9e%e6%97%b6%e7%b3%bb%e7%bb%9f.pdf)
 * [Inside the Erlang VM with focus on SMP](http://docs.huihoo.com/erlang/inside-the-erlang-vm-with-focus-on-smp-2008.pdf)
@@ -178,10 +178,10 @@ http://docs.huihoo.com
 * [Distributed Robots in Elixir](http://docs.huihoo.com/erlang/conference/sfbay2014/distributed-robots-in-elixir.pdf)
 * [Bitcoin & Elixir：Living the cutting edge](http://docs.huihoo.com/erlang/conference/sfbay2014/bitcoin-elixir-living-the-cutting-edge.pdf)
 
-### Swift ###
+### Swift
 * [What's New in Swift (2015)](http://docs.huihoo.com/apple/wwdc/2015/106_whats_new_in_swift.pdf)
 
-### R语言 ###
+### R语言
 * [Open Source Analytics Visualization and Predictive Modeling of Big Data with R](http://docs.huihoo.com/r-project/Open-Source-Analytics-Visualization-and-Predictive-Modeling-of-Big-Data-with-the-R-Programming-Language-OSCON-2009.ppt)
 * [Why We Don't Understand Risk, and How it Dooms Us All](http://docs.huihoo.com/r-project/Why-We-Dos-not-Understand-Risk-and-How-it-Dooms-Us-All-OSCON-2009.pdf)
 
@@ -203,6 +203,7 @@ http://docs.huihoo.com
 * [GPU Technology Conference](http://docs.huihoo.com/gputechconf/)
 * [JavaOne](http://docs.huihoo.com/javaone/)
 * [Oracle World](http://docs.huihoo.com/oracle/openworld/)
+* [InfoQ](http://docs.huihoo.com/infoq/)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
