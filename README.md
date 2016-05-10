@@ -199,9 +199,15 @@ http://docs.huihoo.com
 * [Developing with the Go client for Apache Kafka](http://docs.huihoo.com/apache/kafka/developing-with-the-go-client-for-apache-kafka.pdf)
 * [Apache Kafka 0.8 Basic Training](http://docs.huihoo.com/apache/kafka/apache-kafka-08-basic-training-verisign.pdf) 
 
-## 各种大会历届资料
+## 安全、加密、防火墙 Security & Cryptography & Firewall
+* [Public Key Encryption 1](http://docs.huihoo.com/rsaconference/usa-2013/Public-Key-Encryption-1.pdf) 和 [Public Key Encryption 2](http://docs.huihoo.com/rsaconference/usa-2013/Public-Key-Encryption-2.pdf)
+* [Cryptography as a Service](http://docs.huihoo.com/rsaconference/europe-2013/ads-r01-cryptography-as-a-service.pdf) 
+* [Firewall Fail: Live Test of Top Next-Gen Firewall Testing to Expose Its Breaking Points](http://docs.huihoo.com/rsaconference/usa-2012/Firewall-Fail-Live-Next-Gen-Firewall-Testing-to-Expose-Breaking-Points.pdf)
+
+## 各种大会历届资料 Conference
 * [Worldwide Developers Conference(WWDC)苹果全球开发者大会](http://docs.huihoo.com/apple/wwdc/)
 * [Black Hat](http://docs.huihoo.com/blackhat/)
+* [RSA Conference](http://docs.huihoo.com/rsaconference)
 * [ApacheCon](http://docs.huihoo.com/apache/apachecon/)
 * [GPU Technology Conference](http://docs.huihoo.com/gputechconf/)
 * [JavaOne](http://docs.huihoo.com/javaone/)
