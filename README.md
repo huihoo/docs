@@ -116,6 +116,7 @@ http://docs.huihoo.com
 * [Java Virtual Machine Virtualiza1on - building scalable JVM for Cloud](http://docs.huihoo.com/infoq/qconshanghai-jvm-construction-technology-elastic-cloud-computing-environment-20141018.pdf) 
 
 ### Java
+* [Java深度历险](http://docs.huihoo.com/infoq/java-deep-explore-zh-cn.pdf)
 * [Java Tools and Technologies Landscape for 2014](http://docs.huihoo.com/java/java-tools-and-technologies-landscape-for-2014.pdf)
 * [The New Real-Time Specification for Java](http://docs.huihoo.com/javaone/2014/BOF4957-The-New-Real-Time-Specification-for-Java.pdf)
 
