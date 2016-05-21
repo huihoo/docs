@@ -129,6 +129,9 @@ http://docs.huihoo.com
 ### Clojure 和 ClojureScript
 *[为什么我们仍需要Lisp(Clojure)](http://docs.huihoo.com/infoq/qconshanghai/2015/%e6%96%b0%e8%af%ad%e8%a8%80%e4%b8%8e%e6%96%b0%e5%8f%91%e5%b1%95/QCon%e4%b8%8a%e6%b5%b72015-LorettaHe-%e4%b8%ba%e4%bb%80%e4%b9%88%e6%88%91%e4%bb%ac%e4%bb%8d%e9%9c%80%e8%a6%81Lisp(Clojure)-Loretta%20He.pdf)
 
+### Haskell
+* [Haskell中的类型与类型系统](http://docs.huihoo.com/infoq/qconshanghai/2015/%e6%96%b0%e8%af%ad%e8%a8%80%e4%b8%8e%e6%96%b0%e5%8f%91%e5%b1%95/QCon%e4%b8%8a%e6%b5%b72015-Haskell%e4%b8%ad%e7%9a%84%e5%87%bd%e6%95%b0%e4%b8%8e%e7%b1%bb%e5%9e%8b%e7%b3%bb%e7%bb%9f-%e5%bc%a0%e6%b7%9e.pdf)
+
 ### Go
 * [Write your own Go compiler, More adventures with go.tools/ssa](http://docs.huihoo.com/fosdem/2014/go/Write-your-own-Go-compiler-More-adventures-with-go.tools-ssa.pdf)
 * [Go在猎豹移动的应用](http://docs.huihoo.com/go/gopherchina/2015/2-5%20Go%e5%9c%a8%e7%8c%8e%e8%b1%b9%e7%a7%bb%e5%8a%a8%e7%9a%84%e5%ba%94%e7%94%a8.pdf)
@@ -218,6 +221,7 @@ http://docs.huihoo.com
 * [Oracle World](http://docs.huihoo.com/oracle/openworld/)
 * [InfoQ](http://docs.huihoo.com/infoq/)
 * [Strange Loop](https://github.com/strangeloop)
+* [Nullcon India](http://docs.huihoo.com/nullcon/)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
