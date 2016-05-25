@@ -17,6 +17,7 @@ http://docs.huihoo.com
 * [Learning Deep Architectures for AI](http://docs.huihoo.com/deep-learning/Learning-Deep-Architectures-for-AI.pdf) 和 [Learning Deep Architectures for AI 中文版](http://docs.huihoo.com/deep-learning/Learning-Deep-Architectures-for-AI-zh-CN.pdf)
 * [神经网络与深度学习-幻灯片](http://docs.huihoo.com/deep-learning/Artificial-Neural-Networks-and-Deep-Learning--Slides-zh-CN-20151227.pdf) 和 [神经网络与深度学习-讲义](http://docs.huihoo.com/deep-learning/Artificial-Neural-Networks-and-Deep-Learning-Notes-zh-CN-20151211.pdf)
 * [Deep Learning Methods and Applications](http://docs.huihoo.com/deep-learning/Deep-Learning-Methods-and-Applications.pdf)
+* [Deep Learning with Python](http://docs.huihoo.com/infoq/qconbeijing/2016/day1/%E4%BA%9A%E9%A9%AC%E9%80%8AAWS%E6%B7%B1%E5%BA%A6%E5%88%9B%E6%96%B0%E5%AE%9E%E8%B7%B5%EF%BC%88%E5%8E%82%E5%95%86%E5%85%B1%E5%BB%BA%EF%BC%89/8-4-Deep%20Learning%20with%20Python-%E8%B4%B9%E8%89%AF%E5%AE%8F.pdf)
 * [The Applications of Deep Learning on Traffic Identification](http://docs.huihoo.com/blackhat/usa-2015/us-15-Wang-The-Applications-Of-Deep-Learning-On-Traffic-Identification.pdf)
 * [Deep Learning on Disassembly Data 反汇编数据深度学习](http://docs.huihoo.com/blackhat/usa-2015/us-15-Davis-Deep-Learning-On-Disassembly.pdf)
 * [Deep Learning Tutorial Release 0.1](http://docs.huihoo.com/deep-learning/deep-learning-tutorial-release-0.1.pdf)
@@ -34,6 +35,7 @@ http://docs.huihoo.com
 * [Machine learning in finance using Spark ML pipeline](http://docs.huihoo.com/infoq/qconshanghai/2015/%e5%9f%ba%e4%ba%8e%e5%a4%a7%e6%95%b0%e6%8d%ae%e7%9a%84%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e6%8a%80%e6%9c%af/QCon%e4%b8%8a%e6%b5%b72015-%e5%9f%ba%e4%ba%8e%e6%9c%ba%e5%99%a8%e5%ad%a6%e4%b9%a0%e7%9a%84%e9%93%b6%e8%a1%8c%e5%8d%a1%e6%b6%88%e8%b4%b9%e6%95%b0%e6%8d%ae%e9%a2%84%e6%b5%8b%e4%b8%8e%e6%8e%a8%e8%8d%90-%e6%a2%81%e5%a0%b0%e6%b3%a2.pdf)
  
 ### 计算机视觉 Computer Vision	
+* [人脸识别技术在商业银行的应用及挑战](http://docs.huihoo.com/infoq/qconbeijing/2016/day1/%E6%96%B0%E5%85%B4%E6%8A%80%E6%9C%AF%E5%8F%8A%E5%BA%94%E7%94%A8%E4%B8%93%E9%A2%98/5-4-%E4%BA%BA%E8%84%B8%E8%AF%86%E5%88%AB%E6%8A%80%E6%9C%AF%E5%9C%A8%E5%95%86%E4%B8%9A%E9%93%B6%E8%A1%8C%E7%9A%84%E5%BA%94%E7%94%A8%E5%8F%8A%E6%8C%91%E6%88%98-%E7%8E%8B%E6%99%B6.pdf)
 * [Seeing People with Deep Learning](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/Seeing-People-with-Deep-Learning.pdf)
 * [Deep Learning: Deep Boltzmann Machines](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/Deep-Learning-Deep-Boltzmann-Machines.pdf)
 * [Collaborative Feature Learning from Social Media](http://docs.huihoo.com/gputechconf/gtc2015/S5713-Collaborative-Feature-Learning-from-Social-Media.pdf)
@@ -66,6 +68,7 @@ http://docs.huihoo.com
 * [Advanced Metadata Modeling for Oracle Business Intelligence Cloud Service](http://docs.huihoo.com/oracle/openworld/2014/CON8419-Advanced-Metadata-Modeling-for-Oracle-Business-Intelligence-Cloud-Service.pptx)
 
 ## 微服务和容器 Microservices & Container
+* [今日头条服务化探索及实践历程](http://docs.huihoo.com/infoq/qconbeijing/2016/day3/%E6%9C%8D%E5%8A%A1%E5%8C%96%E4%B8%8E%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E4%B8%93%E9%A2%98/2-2-%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1%E6%9C%8D%E5%8A%A1%E5%8C%96%E6%8E%A2%E7%B4%A2%E5%8F%8A%E5%AE%9E%E8%B7%B5%E5%8E%86%E7%A8%8B-%E5%A4%8F%E7%BB%AA%E5%AE%8F.pdf)
 * [使⽤微服务架构改造企业核⼼业务系统的实践](http://docs.huihoo.com/infoq/qconbeijing/2015/day3/%E4%BD%BF%E2%BD%A4%E7%94%A8%E5%BE%AE%E6%9C%8D%E5%8A%A1%E6%9E%B6%E6%9E%84%E6%94%B9%E9%80%A0%E4%BC%81%E4%B8%9A%E6%A0%B8%E2%BC%BC%E5%BF%83%E4%B8%9A%E5%8A%A1%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%AE%9E%E8%B7%B5.pdf)
 * [Microservices under the microscope](http://docs.huihoo.com/infoq/qconbeijing/2015/day3/Microservices-under-the-microscope.pdf)
 * [Building Systems with Asynchronous Microservices](http://docs.huihoo.com/javaone/2014/CON1870-Building-Systems-with-Asynchronous-Microservices.pdf)
@@ -91,6 +94,8 @@ http://docs.huihoo.com
 * [When to NoSQL and When to Know SQL](http://docs.huihoo.com/javaone/2014/CON1958-When-to-NoSQL-and-When-to-Know-SQL.pdf)
 * [Building a NoSQL Data Cloud](http://docs.huihoo.com/open-source/oscon2010/Building-a-NoSQL-Data-Cloud.pdf)
 * [NoSQL and SQL: The Best of Both Worlds](http://docs.huihoo.com/oracle/openworld/2014/CON2853-NoSQL-and-SQL-The-Best-of-Both-Worlds.pptx)
+* [七牛从InfluxDB看时序数据的处理](http://docs.huihoo.com/infoq/qconbeijing/2016/day2/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%94%9F%E6%80%81%E6%9E%84%E5%BB%BA%EF%BC%88%E5%8E%82%E5%95%86%E5%85%B1%E5%BB%BA%EF%BC%89/9-4-%E4%BB%8EInfluxDB%E7%9C%8B%E6%97%B6%E5%BA%8F%E6%95%B0%E6%8D%AE%E7%9A%84%E5%A4%84%E7%90%86-%20%E9%99%88%E8%B6%85.pdf)
+* [Mangix: 美团云分布式对象存储系统设计与实现](http://docs.huihoo.com/infoq/qconbeijing/2016/day2/%E4%BA%91%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E4%B8%93%E9%A2%98/2-6-%E7%BE%8E%E5%9B%A2%E4%B8%87%E4%BA%BF%E7%BA%A7%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F-%E6%9D%8E%E5%87%AF.pdf)
 
 ## 云计算和数据中心 Cloud Computing & Data Center
 * [OpenStack实战指导手册](http://docs.huihoo.com/openstack/openstack-guide-zh-cn-techtarget.pdf)
@@ -119,6 +124,9 @@ http://docs.huihoo.com
 * [Java Virtual Machine Virtualiza1on - building scalable JVM for Cloud](http://docs.huihoo.com/infoq/qconshanghai-jvm-construction-technology-elastic-cloud-computing-environment-20141018.pdf) 
 
 ### Java
+* [JDK 9, 变化与未来](http://docs.huihoo.com/infoq/qconbeijing/2016/day1/Java%E6%96%B0%E5%8F%91%E5%B1%95%E4%B8%93%E9%A2%98/3-4-JDK%209%EF%BC%8C%E5%8F%98%E5%8C%96%E4%B8%8E%E6%9C%AA%E6%9D%A5-%E8%8C%83%E5%AD%A6%E9%9B%B7.pdf)
+* [阿里巴巴基于Java容器的多应用部署技术实践](http://docs.huihoo.com/infoq/qconbeijing/2016/day1/Java%E6%96%B0%E5%8F%91%E5%B1%95%E4%B8%93%E9%A2%98/3-5-%E5%9F%BA%E4%BA%8E%20Java%20%E5%AE%B9%E5%99%A8%E7%9A%84%E5%A4%9A%E5%BA%94%E7%94%A8%E9%83%A8%E7%BD%B2%E6%8A%80%E6%9C%AF%E5%AE%9E%E8%B7%B5-%E9%AD%8F%E9%B9%8F.pdf)
+* [高盛如何使用Java](http://docs.huihoo.com/infoq/qconbeijing/2016/day1/Java%E6%96%B0%E5%8F%91%E5%B1%95%E4%B8%93%E9%A2%98/3-7-%E9%AB%98%E7%9B%9B%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20Java-%E6%9E%97%E6%96%87.pdf)
 * [Java深度历险](http://docs.huihoo.com/infoq/java-deep-explore-zh-cn.pdf)
 * [Java Tools and Technologies Landscape for 2014](http://docs.huihoo.com/java/java-tools-and-technologies-landscape-for-2014.pdf)
 * [The New Real-Time Specification for Java](http://docs.huihoo.com/javaone/2014/BOF4957-The-New-Real-Time-Specification-for-Java.pdf)
