@@ -47,7 +47,7 @@ http://docs.huihoo.com
 * [The Future of Human Vision: Preferential Augmentation Using GPUs](http://docs.huihoo.com/gputechconf/gtc2015/S5182-The-Future-of-Human-Vision-Preferential-Augmentation-Using-GPUs.pdf)
 
 ### 自然语言处理 	Natural Language Processing
-* [Deep Leraning for Natural Language Processing](http://docs.huihoo.com/deep-learning/Deep-Leraning-for-Natural-Language-Processing-CCF-ADL-20160529.pdf)
+* [Deep Learning for Natural Language Processing](http://docs.huihoo.com/deep-learning/Deep-Learning-for-Natural-Language-Processing-CCF-ADL-20160529.pdf)
 * [NLP and Deep Learning 1: Human Language & Word Vectors ](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/NLP-and-Deep-Learning-1-Human-Language-and-Word-Vectors.pdf)
 * [NLP and Deep Learning 2: Compositonal Deep Learning](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/NLP-and-Deep-Learning-2-Compositonal-Deep-Learning.pdf)
 * [Deep NLP Recurrent Neural Networks](http://docs.huihoo.com/deep-learning/deeplearningsummerschool/2015/Deep-NLP-Recurrent-Neural-Networks.pdf)
