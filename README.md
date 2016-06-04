@@ -236,6 +236,7 @@ http://docs.huihoo.com
 * [InfoQ](http://docs.huihoo.com/infoq/)
 * [Strange Loop](https://github.com/strangeloop)
 * [Nullcon India](http://docs.huihoo.com/nullcon/)
+* [Kcon黑客大会](http://docs.huihoo.com/kcon/)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
