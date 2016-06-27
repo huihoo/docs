@@ -231,6 +231,7 @@ http://docs.huihoo.com
 * [RSA Conference](http://docs.huihoo.com/rsaconference)
 * [ApacheCon](http://docs.huihoo.com/apache/apachecon/)
 * [GPU Technology Conference](http://docs.huihoo.com/gputechconf/)
+* [CppCon: The C++ Conference](https://github.com/CppCon)
 * [JavaOne](http://docs.huihoo.com/javaone/)
 * [Oracle World](http://docs.huihoo.com/oracle/openworld/)
 * [InfoQ](http://docs.huihoo.com/infoq/)
