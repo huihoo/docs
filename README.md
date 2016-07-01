@@ -235,6 +235,7 @@ http://docs.huihoo.com
 * [JavaOne](http://docs.huihoo.com/javaone/)
 * [Oracle World](http://docs.huihoo.com/oracle/openworld/)
 * [InfoQ](http://docs.huihoo.com/infoq/)
+* [PGCon](http://docs.huihoo.com/postgresql/pgcon/) - PostgreSQL Conference for Users and Developers
 * [Strange Loop](https://github.com/strangeloop)
 * [Nullcon India](http://docs.huihoo.com/nullcon/)
 * [Kcon黑客大会](http://docs.huihoo.com/kcon/)
