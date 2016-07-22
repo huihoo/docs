@@ -241,6 +241,7 @@ http://docs.huihoo.com
 * [Kcon黑客大会](http://docs.huihoo.com/kcon/)
 * [EclipseCon](http://docs.huihoo.com/eclipse/eclipsecon/)
 * [ROSCon](http://docs.huihoo.com/ros/roscon/)
+* [Erlang Conference](http://docs.huihoo.com/erlang/conference)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
