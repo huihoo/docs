@@ -234,6 +234,7 @@ http://docs.huihoo.com
 * [CppCon: The C++ Conference](https://github.com/CppCon)
 * [JavaOne](http://docs.huihoo.com/javaone/)
 * [Oracle World](http://docs.huihoo.com/oracle/openworld/)
+* [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina)
 * [InfoQ](http://docs.huihoo.com/infoq/)
 * [PGCon](http://docs.huihoo.com/postgresql/pgcon/) - PostgreSQL Conference for Users and Developers
 * [Strange Loop](https://github.com/strangeloop)
