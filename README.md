@@ -2,6 +2,9 @@
 
 http://docs.huihoo.com
 
+## GitHub文档 
+* [Documentation](https://github.com/topics/documentation) is a set of information that describes a product to its users. 
+
 ## 中文资源
 * [伯乐在线中文资源](https://github.com/jobbole)
 
