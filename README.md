@@ -16,6 +16,7 @@ http://docs.huihoo.com
 * [一个Google系的创业公司如何在中国做人工智能](http://docs.huihoo.com/infoq/qconbeijing/2015/day1/%e4%b8%80%e4%b8%aaGoogle%e7%b3%bb%e7%9a%84%e5%88%9b%e4%b8%9a%e5%85%ac%e5%8f%b8%e5%a6%82%e4%bd%95%e5%9c%a8%e4%b8%ad%e5%9b%bd%e5%81%9a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd.pdf)
 
 ### 机器学习和深度学习 Machine Learning	& Deep Learning
+* [TensorFlow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
 * [Deep Learning Tutorial, ICML, Atlanta, 2013-06-16 Yann LeCun编写，200页幻灯片](http://docs.huihoo.com/deep-learning/Deep-Learning-Tutorial-ICML-20130616.pdf)
 * [Learning Deep Architectures for AI](http://docs.huihoo.com/deep-learning/Learning-Deep-Architectures-for-AI.pdf) 和 [Learning Deep Architectures for AI 中文版](http://docs.huihoo.com/deep-learning/Learning-Deep-Architectures-for-AI-zh-CN.pdf)
 * [神经网络与深度学习-幻灯片](http://docs.huihoo.com/deep-learning/Artificial-Neural-Networks-and-Deep-Learning--Slides-zh-CN-20151227.pdf) 和 [神经网络与深度学习-讲义](http://docs.huihoo.com/deep-learning/Artificial-Neural-Networks-and-Deep-Learning-Notes-zh-CN-20151211.pdf)
