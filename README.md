@@ -245,6 +245,7 @@ http://docs.huihoo.com
 * [Nullcon India](http://docs.huihoo.com/nullcon/)
 * [Kcon黑客大会](http://docs.huihoo.com/kcon/)
 * [EclipseCon](http://docs.huihoo.com/eclipse/eclipsecon/)
+* [Automotive Linux Summit](http://docs.huihoo.com/automotivelinux/summit/)
 * [ROSCon](http://docs.huihoo.com/ros/roscon/)
 * [Erlang Conference](http://docs.huihoo.com/erlang/conference)
 
