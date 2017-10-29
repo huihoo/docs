@@ -160,6 +160,7 @@ http://docs.huihoo.com
 * [七牛的缘分：Golang与云存储](http://docs.huihoo.com/go/golang-and-cloud-storage.pdf)
 
 ### JavaScript
+* [Babel Handbook](https://github.com/thejameskyle/babel-handbook)
 * [JavaScript - The World's Best Programming Language](http://docs.huihoo.com/infoq/qconshanghai/2015/%e6%96%b0%e8%af%ad%e8%a8%80%e4%b8%8e%e6%96%b0%e5%8f%91%e5%b1%95/QCon%e4%b8%8a%e6%b5%b72015-%20JavaScript%20-%20The%20World's%20Best%20Programming%20Language-%20%e8%b4%ba%e5%b8%88%e4%bf%8a.pdf)
 * [JavaScript on Java EE](http://docs.huihoo.com/javaone/2014/CON1747-JavaScript-on-Java-EE.pdf)
 * [Nashorn: JavaScript for the JVM](http://docs.huihoo.com/javaone/2014/CON1888-Nashorn-JavaScript-for-the-JVM.pptx)
