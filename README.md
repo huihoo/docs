@@ -249,6 +249,7 @@ http://docs.huihoo.com
 * [Automotive Linux Summit](http://docs.huihoo.com/automotivelinux/summit/)
 * [ROSCon](http://docs.huihoo.com/ros/roscon/)
 * [Erlang Conference](http://docs.huihoo.com/erlang/conference)
+* [Django Conference](http://docs.huihoo.com/django/conference/)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
