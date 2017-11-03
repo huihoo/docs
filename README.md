@@ -143,7 +143,7 @@ http://docs.huihoo.com
 * [Scala & Clojure  Playing Nice](http://docs.huihoo.com/infoq/qconbeijing/2015/day2/scala-clojure-playing-nice.pptx)
 
 ### Clojure 和 ClojureScript
-*[为什么我们仍需要Lisp(Clojure)](http://docs.huihoo.com/infoq/qconshanghai/2015/%e6%96%b0%e8%af%ad%e8%a8%80%e4%b8%8e%e6%96%b0%e5%8f%91%e5%b1%95/QCon%e4%b8%8a%e6%b5%b72015-LorettaHe-%e4%b8%ba%e4%bb%80%e4%b9%88%e6%88%91%e4%bb%ac%e4%bb%8d%e9%9c%80%e8%a6%81Lisp(Clojure)-Loretta%20He.pdf)
+* [为什么我们仍需要Lisp(Clojure)](http://docs.huihoo.com/infoq/qconshanghai/2015/%e6%96%b0%e8%af%ad%e8%a8%80%e4%b8%8e%e6%96%b0%e5%8f%91%e5%b1%95/QCon%e4%b8%8a%e6%b5%b72015-LorettaHe-%e4%b8%ba%e4%bb%80%e4%b9%88%e6%88%91%e4%bb%ac%e4%bb%8d%e9%9c%80%e8%a6%81Lisp(Clojure)-Loretta%20He.pdf)
 
 ### Haskell
 * [Haskell中的类型与类型系统](http://docs.huihoo.com/infoq/qconshanghai/2015/%e6%96%b0%e8%af%ad%e8%a8%80%e4%b8%8e%e6%96%b0%e5%8f%91%e5%b1%95/QCon%e4%b8%8a%e6%b5%b72015-Haskell%e4%b8%ad%e7%9a%84%e5%87%bd%e6%95%b0%e4%b8%8e%e7%b1%bb%e5%9e%8b%e7%b3%bb%e7%bb%9f-%e5%bc%a0%e6%b7%9e.pdf)
@@ -250,6 +250,7 @@ http://docs.huihoo.com
 * [ROSCon](http://docs.huihoo.com/ros/roscon/)
 * [Erlang Conference](http://docs.huihoo.com/erlang/conference)
 * [Django Conference](http://docs.huihoo.com/django/conference/)
+* [Qt Conference](http://docs.huihoo.com/qt/conference/)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
