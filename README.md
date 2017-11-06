@@ -174,6 +174,7 @@ http://docs.huihoo.com
 * [Building a Real-Time Cloud Analytics Service with Node.js](http://docs.huihoo.com/nodejs/building-a-realtime-cloud-analytics-service-with-nodejs.pdf)
 
 ### Python
+* [中文 Python 笔记](https://github.com/lijin-THU/notes-python)
 * [Zen and the Art of Abstraction Maintenance](http://docs.huihoo.com/python/Zen-and-the-Art-of-Abstraction-Maintenance-OSCON-2009.pdf)
 * [Best Practices for Scripting with Python 2 & Python 3](http://docs.huihoo.com/python/Best-practices-for-scripting-with-Python3-OSCON-2009.pdf)
 
