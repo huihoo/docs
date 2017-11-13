@@ -11,6 +11,7 @@ http://docs.huihoo.com
 
 ## 英文资源
 * [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
+* [A.W.E.S.O.M. O](https://github.com/lk-geimfari/awesomo) An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
 ## 人工智能 Artificial Intelligence
 * [Learning Deep Architectures for AI](http://docs.huihoo.com/deep-learning/Learning-Deep-Architectures-for-AI.pdf)
