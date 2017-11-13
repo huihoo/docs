@@ -6,6 +6,7 @@ http://docs.huihoo.com
 * [Documentation](https://github.com/topics/documentation) is a set of information that describes a product to its users. 
 
 ## 中文资源
+* [Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang 文档资源](https://github.com/ty4z2008/Qix)
 * [伯乐在线中文资源](https://github.com/jobbole)
 
 ## 英文资源
