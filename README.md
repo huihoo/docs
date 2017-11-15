@@ -121,6 +121,7 @@ http://docs.huihoo.com
 ### C/C++
 * [C++11核心特性简析](http://docs.huihoo.com/infoq/qconshanghai/2015/C++11%e6%a0%b8%e5%bf%83%e7%89%b9%e6%80%a7%e7%ae%80%e6%9e%90.pdf)
 * [C++ History and Rationale](http://docs.huihoo.com/cpp/cpp-history-and-rationale.pdf)
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md)
 
 ### Rust
 * [Rust编程语言核心优势和核心竞争力](http://docs.huihoo.com/infoq/qconbeijing/2016/day3/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%AE%9E%E6%88%98%E4%B8%93%E9%A2%98/3-2-Rust%E8%AF%AD%E8%A8%80%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B-%E5%BA%84%E6%99%93%E7%AB%8B.pdf)
