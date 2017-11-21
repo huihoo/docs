@@ -118,6 +118,8 @@ http://docs.huihoo.com
 * [Using OpenShift & PaaS to accelerate DevOps & Continuous Delivery](http://docs.huihoo.com/redhat/summit/2015/12218_use-openshift-paas-to-accelerate-devops-continuous-delivery.pdf)
 
 ## 编程语言 Programming Language
+* [数据结构思维中文版](https://github.com/wizardforcel/think-dast-zh)
+
 ### C/C++
 * [C++11核心特性简析](http://docs.huihoo.com/infoq/qconshanghai/2015/C++11%e6%a0%b8%e5%bf%83%e7%89%b9%e6%80%a7%e7%ae%80%e6%9e%90.pdf)
 * [C++ History and Rationale](http://docs.huihoo.com/cpp/cpp-history-and-rationale.pdf)
