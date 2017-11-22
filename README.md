@@ -220,6 +220,7 @@ http://docs.huihoo.com
 * [Why We Don't Understand Risk, and How it Dooms Us All](http://docs.huihoo.com/r-project/Why-We-Dos-not-Understand-Risk-and-How-it-Dooms-Us-All-OSCON-2009.pdf)
 
 ## 编辑器和集成开发环境 Editor & IDE
+* [IntelliJ IDEA 简体中文专题教程](https://github.com/judasn/IntelliJ-IDEA-Tutorial)
 * [How to Write Your Own Eclipse Plug-ins](http://docs.huihoo.com/eclipse/How-to-Write-Your-Own-Eclipse-Plug-ins-OSCON-2009.pdf)
 
 ## 中间件 Middleware & MOM & SOA & ESB & Workflow & BPM
