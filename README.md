@@ -269,4 +269,4 @@ http://docs.huihoo.com
 ## 赞助
 ![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg)
 
-赞助灰狐，世界需要一杯热咖啡。
+赞助我们，灰狐需要一杯热咖啡。
