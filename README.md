@@ -14,6 +14,13 @@ http://docs.huihoo.com
 * [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
 * [A.W.E.S.O.M. O](https://github.com/lk-geimfari/awesomo) An extensive list of interesting open source projects written in С, C++, Clojure, Lisp, Elixir, Erlang, Elm, Golang, Haskell, JavaScript, Lua, OCaml, Python, R, Ruby, Rust, Scala etc.
 
+## Google文档资源
+* [Google开发者文档](https://developers.google.cn/)
+* [Android开发技术文档](https://developer.android.google.cn/)
+* [Firebase开发技术文档](https://firebase.google.cn/)
+* [TensorFlow技术文档](https://tensorflow.google.cn/)
+* [Angular中文文档](https://angular.cn/)
+
 ## 人工智能 Artificial Intelligence
 * [Learning Deep Architectures for AI](http://docs.huihoo.com/deep-learning/Learning-Deep-Architectures-for-AI.pdf)
 * [一个Google系的创业公司如何在中国做人工智能](http://docs.huihoo.com/infoq/qconbeijing/2015/day1/%e4%b8%80%e4%b8%aaGoogle%e7%b3%bb%e7%9a%84%e5%88%9b%e4%b8%9a%e5%85%ac%e5%8f%b8%e5%a6%82%e4%bd%95%e5%9c%a8%e4%b8%ad%e5%9b%bd%e5%81%9a%e4%ba%ba%e5%b7%a5%e6%99%ba%e8%83%bd.pdf)
