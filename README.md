@@ -70,6 +70,7 @@ http://docs.huihoo.com
 
 ## 数据科学 Data Science
 * [An Introduction to Data Science](http://docs.huihoo.com/data-science/an-introduction-to-data-science.pdf)
+* [Kotlin for Data Science](http://docs.huihoo.com/kotlin/conference/2017/Kotlin-for-Data-Science.pdf)
 
 ### 大数据 Big Data
 * [Securing Your Big Data Environment](http://docs.huihoo.com/blackhat/usa-2015/us-15-Gaddam-Securing-Your-Big-Data-Environment.pdf)
@@ -148,6 +149,11 @@ http://docs.huihoo.com
 * [Java深度历险](http://docs.huihoo.com/infoq/java-deep-explore-zh-cn.pdf)
 * [Java Tools and Technologies Landscape for 2014](http://docs.huihoo.com/java/java-tools-and-technologies-landscape-for-2014.pdf)
 * [The New Real-Time Specification for Java](http://docs.huihoo.com/javaone/2014/BOF4957-The-New-Real-Time-Specification-for-Java.pdf)
+
+### Kotlin
+* [My Transition from Swift to Kotlin](http://docs.huihoo.com/kotlin/conference/2017/My-Transition-from-Swift-to-Kotlin.pdf)
+* [How to Build a React app in Kotlin](http://docs.huihoo.com/kotlin/conference/2017/How-to-Build-a-React-app-in-Kotlin.pdf)
+* [Architectures Using Functional Programming Concepts](http://docs.huihoo.com/kotlin/conference/2017/Architectures-using-Functional-Programming-Concepts.pdf)
 
 ### Scala
 * [Scala：让Java平台上的编程重现生机](http://docs.huihoo.com/scala/scala-2012.pdf)
@@ -253,6 +259,7 @@ http://docs.huihoo.com
 * [GPU Technology Conference](http://docs.huihoo.com/gputechconf/)
 * [CppCon: The C++ Conference](https://github.com/CppCon)
 * [JavaOne](http://docs.huihoo.com/javaone/)
+* [Kotlin Conference](http://docs.huihoo.com/kotlin/conference)
 * [Oracle World](http://docs.huihoo.com/oracle/openworld/)
 * [PHPConChina](https://github.com/ThinkDevelopers/PHPConChina)
 * [InfoQ](http://docs.huihoo.com/infoq/)
@@ -274,6 +281,6 @@ http://docs.huihoo.com
 [![GNU FDL](http://wiki.huihoo.com/skins/common/images/gnu-fdl.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0) [![CC](http://wiki.huihoo.com/images/4/4e/CC-BY-SA_3.0-88x31.png)](http://wiki.huihoo.com/wiki/CC-BY-SA_3.0)
 
 ## 赞助
-![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg)
+![赞助](http://wiki.huihoo.com/images/d/d7/Weixin-dashang.jpg) 微信扫码
 
 赞助我们，灰狐需要一杯热咖啡。
