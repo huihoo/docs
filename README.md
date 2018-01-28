@@ -4,6 +4,7 @@ http://docs.huihoo.com
 
 ## GitHub文档 
 * [Documentation](https://github.com/topics/documentation) is a set of information that describes a product to its users. 
+* [Linode Guides and Tutorials](https://github.com/linode/docs)
 
 ## 中文资源
 * [Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang 文档资源](https://github.com/ty4z2008/Qix)
