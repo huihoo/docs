@@ -274,6 +274,7 @@ http://docs.huihoo.com
 * [Erlang Conference](http://docs.huihoo.com/erlang/conference)
 * [Django Conference](http://docs.huihoo.com/django/conference/)
 * [Qt Conference](http://docs.huihoo.com/qt/conference/)
+* [MesosCon](http://docs.huihoo.com/apache/mesos/mesoscon/)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
