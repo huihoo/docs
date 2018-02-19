@@ -252,6 +252,7 @@ http://docs.huihoo.com
 
 ## 各种大会历届资料 Conference
 * [Awesome Conferences](https://github.com/RichardLitt/awesome-conferences) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+* [KVM Forum](http://docs.huihoo.com/kvm/kvm-forum/)
 * [Google I/O](http://docs.huihoo.com/google/io/)
 * [Worldwide Developers Conference(WWDC)苹果全球开发者大会](http://docs.huihoo.com/apple/wwdc/)
 * [Black Hat](http://docs.huihoo.com/blackhat/)
