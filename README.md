@@ -115,6 +115,7 @@ http://docs.huihoo.com
 * [Mangix: 美团云分布式对象存储系统设计与实现](http://docs.huihoo.com/infoq/qconbeijing/2016/day2/%E4%BA%91%E5%B9%B3%E5%8F%B0%E6%9E%B6%E6%9E%84%E4%B8%93%E9%A2%98/2-6-%E7%BE%8E%E5%9B%A2%E4%B8%87%E4%BA%BF%E7%BA%A7%E5%AF%B9%E8%B1%A1%E5%AD%98%E5%82%A8%E7%B3%BB%E7%BB%9F-%E6%9D%8E%E5%87%AF.pdf)
 
 ## 云计算和数据中心 Cloud Computing & Data Center
+* [Mesosphere DC/OS文档中心](http://dcos.huihoo.com/)
 * [OpenStack实战指导手册](http://docs.huihoo.com/openstack/openstack-guide-zh-cn-techtarget.pdf)
 * [OpenStack Quantum Architecture，Network(Quantum) provide "network connectivity as a service" ](http://docs.huihoo.com/openstack/openstack-quantum-architecture.pdf)
 * [Chef for OpenStack Overview](http://docs.huihoo.com/openstack/summit/2013/chef-for-openstack-overview.pdf)
