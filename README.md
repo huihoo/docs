@@ -74,6 +74,7 @@ http://docs.huihoo.com
 * [Kotlin for Data Science](http://docs.huihoo.com/kotlin/conference/2017/Kotlin-for-Data-Science.pdf)
 
 ### 大数据 Big Data
+* [Spark, HBase, Hadoop填坑与埋坑](https://github.com/ColZer/DigAndBuried)
 * [Securing Your Big Data Environment](http://docs.huihoo.com/blackhat/usa-2015/us-15-Gaddam-Securing-Your-Big-Data-Environment.pdf)
 * [Securing the Big Data Ecosystem](http://docs.huihoo.com/rsaconference/usa-2014/stu-t07a-securing-the-big-data-ecosystem.pdf)
 * [Harnessing Big Data for Application Security Intelligence](http://docs.huihoo.com/rsaconference/usa-2014/spo3-t08-good-guys-vs-bad-guys-using-big-data-to-counteract-advanced-threats.pdf)
