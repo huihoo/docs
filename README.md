@@ -279,6 +279,7 @@ http://docs.huihoo.com
 * [Qt Conference](http://docs.huihoo.com/qt/conference/)
 * [MesosCon](http://docs.huihoo.com/apache/mesos/mesoscon/)
 * [Mesosphere Presentations](https://github.com/mesosphere/presentations)
+* [DevOps 国际峰会 2018 北京站](http://docs.huihoo.com/devops/dois2018beijing/)
 
 ## 欢迎参与 Welcome and Help
 欢迎大家以 issues 或  pull request 的方式增加新的资源和建议。
