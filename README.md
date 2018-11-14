@@ -13,7 +13,6 @@ http://docs.huihoo.com
 * [TechTarget中文资料：商业智能、云计算、数据库、安全、SOA、虚拟化](http://docs.huihoo.com/techtarget/)
 * [envoyproxy 智能代理中文参考文档](https://github.com/lixiangyun/envoyproxy_doc_ZH_CN)
 * [印记中文：深入挖掘国外前端新领域，为中国 Web 前端开发人员提供优质文档！](https://github.com/docschina)
-* [填坑与埋坑：Spark、Hadoop、HBase](https://github.com/ColZer/DigAndBuried)
 
 ## 英文资源
 * [Services Engineering Reading List](https://github.com/mmcgrana/services-engineering)
