@@ -5,6 +5,7 @@ http://docs.huihoo.com
 ## GitHub文档 
 * [Documentation](https://github.com/topics/documentation) is a set of information that describes a product to its users. 
 * [Microsoft Docs](https://github.com/MicrosoftDocs)
+* [.NET中文文档](https://github.com/dotnet/docs.zh-cn)
 * [Linode Guides and Tutorials](https://github.com/linode/docs)
 
 ## 中文资源
